@@ -25,7 +25,9 @@ The application reads sales data from an input text file, processes the informat
 
 # Sample Input
 100.50 200.75 150.00
+
 80.00 90.00
+
 220.10 130.50 300.00 50.25
 
 # Technologies Uses
